@@ -23,11 +23,6 @@ int main()
 			break;
 		}
 	}
-	//my_piggy->Print();
-	//my_piggy->Print();
-	//my_piggy->TakeOut();
-	//my_piggy->Print();
-
 	delete my_piggy;
 
 	return 0;
